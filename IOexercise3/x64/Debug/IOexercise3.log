@@ -1,0 +1,3 @@
+﻿  IOexercise3.cpp
+C:\Users\nebur\source\repos\IOexercise3\IOexercise3\IOexercise3.cpp(74): warning C4715: 'AlphabetToNum': non tutti i percorsi di controllo restituiscono un valore
+  IOexercise3.vcxproj -> C:\Users\nebur\source\repos\IOexercise3\x64\Debug\IOexercise3.exe
